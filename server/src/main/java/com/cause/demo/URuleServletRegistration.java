@@ -1,4 +1,4 @@
-package com.bstek.urule.console;
+package com.cause.demo;
 
 import com.bstek.urule.console.servlet.URuleServlet;
 import org.springframework.boot.web.servlet.ServletRegistrationBean;

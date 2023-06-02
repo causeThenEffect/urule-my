@@ -6,6 +6,8 @@ spring:
     password: yn7kzMhTAN9p66Uf
   jackson:
     default-property-inclusion: non_null
+  main:
+    allow-circular-references: true
 
 urule:
   repository:
